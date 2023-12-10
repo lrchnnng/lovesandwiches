@@ -1,0 +1,15 @@
+Collect sales data from the user
+
+Add sales data into sales worksheet
+
+Calculate surplus numbers
+
+Add surplus data to surplus worksheet
+
+Calculate the average sales for the last 5 markets
+
+Add calculated stock numbers into the stock worksheet
+
+Print stock reccomendations to the terminal 
+
+Check that the sales data input from the user is valid 
